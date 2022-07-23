@@ -39,7 +39,7 @@ bias_out = np.array([1])
 
 # Learning rate
 alpha = 0.01
-epoch = 1
+epoch = 100
 
 for epo in range(epoch):
     print(f'Epoch : { epo + 1 } \n\n')
